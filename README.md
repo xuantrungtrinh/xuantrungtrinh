@@ -1,4 +1,4 @@
-## Hi, I'm Trung 🔭🌱! 👋
+## Hi, I'm Trung 😊🔭🌱! 👋
 
 <!--
 **xuantrungtrinh/xuantrungtrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
