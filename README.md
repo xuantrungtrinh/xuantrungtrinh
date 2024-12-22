@@ -4,7 +4,6 @@
 **xuantrungtrinh/xuantrungtrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1></h1>
+
+### I develop engaging and immersive games, simulations & systems mostly using Python & C++. 
+### Besides, I also love the research process and creating the most engaging and immersive experiences! 📚👓🤓
+
+Tools/techs I ususally use to code with:
+<!--
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
+-->
