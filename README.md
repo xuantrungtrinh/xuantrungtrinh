@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I develop engaging and immersive games, simulations & systems mostly using Python & C++. 
 ### Besides, I also love the research process and creating the most engaging and immersive experiences! 📚👓🤓
 
-Langugages I ususally use:
+Languages I usually use:
 
 <!-- <a href = "#"><img src="img/python.svg" alt="python" style="vertical-align:top; margin:6px 4px; width:11%;"></a> <a href = "#"><img src="img/C++.svg" alt="C++" style="vertical-align:top; margin:6px 4px; width:8.6%"></a>  -->
 <a href = "#"><img src="img/Python-kiachodubo.svg" alt="Python-kiachodubo" style="vertical-align:top; margin:6px 4px;"></a> <a href = "#"><img src="img/C++.svg" alt="C++" style="vertical-align:top; margin:6px 4px;"></a>
