@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1></h1>
+<!-- <h1></h1> -->
 
 ### I develop engaging and immersive games, simulations & systems mostly using Python & C++. 
 ### Besides, I also love the research process and creating the most engaging and immersive experiences! 📚👓🤓
