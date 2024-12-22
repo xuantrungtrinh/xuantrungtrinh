@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Langugages I ususally use:
 
-<a href = "#"><img src="img/python.svg" alt="python" style="vertical-align:top; margin:6px 4px; width:11%;"></a> <a href = "#"><img src="img/C++.svg" alt="C++" style="vertical-align:top; margin:6px 4px; width:8%"></a>
+<a href = "#"><img src="img/python.svg" alt="python" style="vertical-align:top; margin:6px 4px; width:11%;"></a> <a href = "#"><img src="img/C++.svg" alt="C++" style="vertical-align:top; margin:6px 4px; width:8.6%"></a>
 
 and, sometimes:
 
